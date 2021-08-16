@@ -1,13 +1,13 @@
 # Hvg
 
 ### Screen 1
-![Screen1](./screenshots/Screeshop1.png)
+![Screen1](./screenshots/screenshot1.png)
 ### Screen 2
-![Screen2](./screenshots/Screeshop2.png)
+![Screen2](./screenshots/screenshot2.png)
 ### Screen 3
-![Screen3](./screenshots/Screeshop3.png)
+![Screen3](./screenshots/screenshot3.png)
 ### Screen 4
-![Screen4](./screenshots/Screeshop4.png)
+![Screen4](./screenshots/screenshot4.png)
 
 ## Info
 A simple and 'Hvg' theme that builds on the basic Spotify user interface to create a more elegant experience and is compatible with the latest version of spotify
